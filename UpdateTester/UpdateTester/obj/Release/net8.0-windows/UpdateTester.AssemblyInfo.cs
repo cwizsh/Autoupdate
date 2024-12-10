@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpdateTester")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b495f63bd32a8f94ec5e26854ef1c6fd3a397c0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74833dbf5bba35fcf8127a36c64d58d4e2228e2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpdateTester")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpdateTester")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
