@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UpdateTester/1.0.0": {
+        "runtime": {
+          "UpdateTester.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UpdateTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

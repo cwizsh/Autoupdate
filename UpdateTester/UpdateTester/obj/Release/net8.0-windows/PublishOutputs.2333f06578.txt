@@ -1,0 +1,5 @@
+C:\VS_Proj\UpdateTester\Autoupdate\UpdateTester\UpdateTester\bin\Release\net8.0-windows\app.publish\UpdateTester.exe
+C:\VS_Proj\UpdateTester\Autoupdate\UpdateTester\UpdateTester\bin\Release\net8.0-windows\app.publish\UpdateTester.dll
+C:\VS_Proj\UpdateTester\Autoupdate\UpdateTester\UpdateTester\bin\Release\net8.0-windows\app.publish\UpdateTester.deps.json
+C:\VS_Proj\UpdateTester\Autoupdate\UpdateTester\UpdateTester\bin\Release\net8.0-windows\app.publish\UpdateTester.runtimeconfig.json
+C:\VS_Proj\UpdateTester\Autoupdate\UpdateTester\UpdateTester\bin\Release\net8.0-windows\app.publish\UpdateTester.pdb
